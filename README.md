@@ -12,10 +12,10 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Commands
-
+...
  watch sass files and compile them
+1. go to styles folder
+2. run command 
 
 ```bash
-go to styles folder 
 sass --watch styles.scss:style.min.css
